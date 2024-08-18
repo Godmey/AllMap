@@ -6,9 +6,8 @@ local CheckMap = {
   ["Map 4"] = nil,
   ["Map 5"] = nil,
 }
-
+-- setclipboard(ID_MAP)
 local HTTP
-
 if CheckMap["Map: Glue Piece"] == ID_MAP then
   HTTP = "https://raw.githubusercontent.com/Godmey/Glue-piece-By-Kill/main/README.md"
   
