@@ -2,7 +2,7 @@ local ID_MAP = tostring(game.PlaceId)
 -- setclipboard(ID_MAP)
 local CheckMap = {
   ["Map: Glue Piece"] = 1234,
-  ["Map: XDAX Piece"] = 1245,
+  ["Map: XDAX Piece"] = 17415731457,
   ["Map 3"] = nil,
   ["Map 4"] = nil,
   ["Map 5"] = nil,
