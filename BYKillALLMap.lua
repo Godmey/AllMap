@@ -3,7 +3,7 @@ local ID_MAP = tostring(game.PlaceId)
 local CheckMap = {
   ["Map: Glue Piece"] = "394506555",
   ["Map: XDAX Piece"] = "17415731457",
-  ["Map: ijul Piece"] = "123",
+  ["Map: ijul Piece"] = "18688206652",
   ["Map 4"] = nil,
   ["Map 5"] = nil,
 }
