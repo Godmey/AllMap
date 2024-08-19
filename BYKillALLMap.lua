@@ -1,4 +1,5 @@
 local ID_MAP = tostring(game.PlaceId)
+-- setchilborad(tostring(game.PlaceId))
 local CheckMap = {
   ["Map: Glue Piece"] = "394506555",
   ["Map: XDAX Piece"] = "17415731457",
