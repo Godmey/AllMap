@@ -13,7 +13,7 @@ if CheckMap["Map: Glue Piece"] == ID_MAP then
   HTTP = "https://raw.githubusercontent.com/Godmey/Glue-piece-By-Kill/main/README.md"
 elseif CheckMap["Map: XDAX Piece"] == ID_MAP then
   HTTP = "https://raw.githubusercontent.com/Godmey/XDAX/main/Piece.lua"
-elseif CheckMap["Map :ijul Piece"] == ID_MAP then
+elseif CheckMap["Map: ijul Piece"] == ID_MAP then
   HTTP = "https://raw.githubusercontent.com/Godmey/Siwwdo/main/ABC.lua"
 end
 
